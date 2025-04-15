@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"list/kafka/base.md","filePath":"list/kafka/base.md"}'),s={name:"list/kafka/base.md"};function r(o,c,n,i,f,p){return t(),e("div")}const l=a(s,[["render",r]]);export{d as __pageData,l as default};
