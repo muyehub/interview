@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.Dh1jimFm.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"list/redis/base.md","filePath":"list/redis/base.md"}'),a={name:"list/redis/base.md"};function r(o,i,c,n,d,p){return s(),t("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};
