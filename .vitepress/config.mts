@@ -19,6 +19,7 @@ export default defineConfig({
             { text: 'GMP', link: '/list/go/gmp' },
             { text: '顺序执行 goroutine', link: '/list/go/alternate_print' },
             { text: '发布订阅', link: '/list/go/pub_sub' },
+            { text: '本地缓存', link: '/list/go/cache' },
           ]
         },
         {
