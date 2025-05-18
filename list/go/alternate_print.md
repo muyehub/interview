@@ -1,4 +1,5 @@
 # 控制 goroutine 的执行顺序
+
 - 依次打印
 
   题目：依次输出 dog、pig、sheep，并执行 100 次，每个输出都需要一个单独的 goroutine
